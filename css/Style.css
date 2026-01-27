@@ -486,6 +486,7 @@ header .nav .mega-menu .link li i {
 }
 
 .landing-section .container .imge img {
+    position: relative;
     width: 600px;
     animation: up-and-down 5s linear infinite;
     -webkit-animation: up-and-down 5s linear infinite;
@@ -2345,3 +2346,4 @@ footer .copyright {
 }
 
 /* todo End Animation */
+
