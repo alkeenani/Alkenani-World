@@ -295,6 +295,10 @@ header .container .nav li a:hover::before {
     width: 100%;
 }
 
+header .container .nav>li:last-of-type>a {
+    cursor: context-menu;
+}
+
 /* ! Start Mega menu */
 header .nav .mega-menu {
     position: absolute;
